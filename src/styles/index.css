@@ -1,4 +1,7 @@
-
+.cards {
+    display: flex;
+    margin-top: 20px;
+}
 /* 
 
     You can write your own styles here...
